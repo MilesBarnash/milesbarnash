@@ -5,7 +5,7 @@
 
 ***Pronouns*** - She/Him
 
-***Current Project*** - MilesPokemonGame
+***Current Project*** - PokemonGame
 
 ***Currently learning*** - Unity, GitHub, FL Studio, Adobe Illustrator, Adobe Photoshop
 
